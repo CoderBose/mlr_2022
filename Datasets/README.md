@@ -2,6 +2,8 @@
 
 ### Blodgett
 
+The authors of the original paper say they used 50,000 tweets from the Blodgett dataset that had a high likelihood (greater than 90%) of AAE dialect as predicted by their model. 
+
 The file "Blodgett_50k_IDs.csv" contains the IDs of 50,000 Tweets that we used in our reproduction, that were still available via the Twitter API at publication time. You can use the Twitter API to retrieve these tweets with the notebook "02_Retrieve_twitter_data.ipynb". However, some of the Tweets may have become unavailable (if they are deleted or removed from Twitter) since publication time.
 
 To create this list of Tweet IDs, we downloaded the file "TwitterAAE-full-v1.zip" from [http://slanglab.cs.umass.edu/TwitterAAE/](TwitterAAE: Research on African-American English on Twitter
