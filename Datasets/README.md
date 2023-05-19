@@ -12,7 +12,7 @@ To create this list of Tweet IDs, we downloaded the file "TwitterAAE-full-v1.zip
 
 ### DWMW17
 
-We retrieved the ["labeled_data.csv"](https://github.com/t-davidson/hate-speech-and-offensive-language/blob/master/data/labeled_data.csv) file from (Automated Hate Speech Detection and the Problem of Offensive Language)[https://github.com/t-davidson/hate-speech-and-offensive-language] and named it "Dwmw17.csv".
+We retrieved the ["labeled_data.csv"](https://github.com/t-davidson/hate-speech-and-offensive-language/blob/master/data/labeled_data.csv) file from [Automated Hate Speech Detection and the Problem of Offensive Language](https://github.com/t-davidson/hate-speech-and-offensive-language) and named it "Dwmw17.csv".
 
 ### FDCL18 
 
