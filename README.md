@@ -1,8 +1,9 @@
 
 # [Re] Exploring the Role of Grammar and Word Choice in Bias Toward African American English (AAE) in Hate Speech Classification
 
+First, review the README files in the "Datasets" and "Dictionaries" directories, to retrieve data and other files needed to execute the notebooks.
 
-We have numbered the files in the order in which they are to be run so as to replicate the exact results as our experiment.
+Then, you can run the Python notebooks in the "Notebooks" directory. We have numbered the files in the order in which they are to be run so as to replicate the exact results as our experiment.
 
  1. 01_Reserve_Resources_on_Chameleon: Has the steps to provision resources on the Chameleon cloud. (optional - you can run this in another environment)
  2. 02_Retrieve_twitter_data: Has the steps to retrieve the Twitter data
