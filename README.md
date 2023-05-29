@@ -12,3 +12,4 @@ Then, you can run the Python notebooks in the "Notebooks" directory. We have num
  5. 05_Predictions_on_uncensored_and_censored_data: Has the steps to get the final predictions
  6. 06_Plot_results: Has the steps to plot the results in the report.
 
+We worked on this project as a part of the Machine Learning Reproducibility Challenge' 2022: https://paperswithcode.com/rc2022
