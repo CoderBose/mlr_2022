@@ -13,3 +13,5 @@ Then, you can run the Python notebooks in the "Notebooks" directory. We have num
  6. 06_Plot_results: Has the steps to plot the results in the report.
 
 We worked on this project as a part of the Machine Learning Reproducibility Challenge' 2022: https://paperswithcode.com/rc2022
+
+Published at: https://openreview.net/forum?id=MjZVx7a0KX-
